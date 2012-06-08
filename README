@@ -1,0 +1,6 @@
+== This is my git repository for my vim configuration. ==
+To use it:
+
+    1. clone the repository to ~/.vim
+    2. symlink your .vimrc to ~/.vim/vimrc with the following command:
+        ln -s ~/.vim/vimrc .vimrc
