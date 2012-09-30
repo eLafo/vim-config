@@ -7,9 +7,6 @@
 [submodule "bundle/fuzzy_finder"]
 	path = bundle/fuzzy_finder
 	url = https://github.com/vim-scripts/FuzzyFinder
-[submodule "bundle/vim-easytags"]
-	path = bundle/vim-easytags
-	url = https://github.com/xolox/vim-easytags.git
 [submodule "bundle/l9"]
 	path = bundle/l9
 	url = https://github.com/vim-scripts/L9.git
