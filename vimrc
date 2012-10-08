@@ -1,3 +1,5 @@
+let mapleader = ' '
+nmap <silent> <Leader>p :NERDTreeToggle<CR>
 call pathogen#infect()
 syntax on
 filetype plugin indent on
