@@ -8,3 +8,4 @@ set mouse=a
 set ignorecase
 set smartcase
 set incsearch
+set paste
